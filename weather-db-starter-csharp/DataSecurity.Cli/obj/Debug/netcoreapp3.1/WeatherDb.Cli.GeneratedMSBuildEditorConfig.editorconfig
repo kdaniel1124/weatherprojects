@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WeatherDb.Cli
+build_property.ProjectDir = C:\Users\Danny\CodeProjects\weather-db-starter-csharp\DataSecurity.Cli\

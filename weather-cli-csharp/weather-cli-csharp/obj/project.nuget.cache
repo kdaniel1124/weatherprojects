@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7quY91rMU6EtMKsVruF9QV4QE6gY3sFzke2syIux5IvT/2FoGJR2CPch1bkrBYYMZ+IDt0EkL6loigrk125wrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danny\\CodeProjects\\weather-cli-csharp\\weather-cli-csharp\\weather-cli-csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\restsharp.serializers.newtonsoftjson\\106.11.7\\restsharp.serializers.newtonsoftjson.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
